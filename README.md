@@ -15,4 +15,4 @@ DELETE	 ลบสินค้า	           URL: products.php?id=1
 
 *การเรียกใช้งานใน Postman
 GET – ดึงสินค้าทั้งหมด
-ฃ
+![Uploading Scanned_20250928-1743-03.jpg…]()
