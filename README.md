@@ -15,6 +15,7 @@ DELETE	 ลบสินค้า	           URL: products.php?id=1
 
 *การเรียกใช้งานใน Postman
 GET – ดึงสินค้าทั้งหมด
-![Scanned_20250928-1743-03](https://github.com/user-attachments/assets/9b09d854-5ea0-416d-8f2a-293a704ae2be)
+<img width="1217" height="830" alt="Screenshot 2025-09-29 110827" src="https://github.com/user-attachments/assets/b7c3ca44-e644-4dc5-baf4-cf3c7450d819" />
+
 
 
