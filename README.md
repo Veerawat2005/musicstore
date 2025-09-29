@@ -18,6 +18,8 @@ DELETE	 ลบสินค้า	           URL: products.php?id=1
 GET – ดึงสินค้าทั้งหมด
 <img width="1217" height="830" alt="Screenshot 2025-09-29 110827" src="https://github.com/user-attachments/assets/b7c3ca44-e644-4dc5-baf4-cf3c7450d819" />
 
+
+
 GET -ดึงสินค้าทีละอัน
 <img width="777" height="777" alt="Screenshot 2025-09-29 112357" src="https://github.com/user-attachments/assets/87ee1c0f-e4b6-4aa1-b7b0-943e35c36655" />
 
