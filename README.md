@@ -35,6 +35,9 @@ POST -(เพิ่มสินค้า)
 <img width="612" height="662" alt="Screenshot 2025-09-29 112600" src="https://github.com/user-attachments/assets/7d57a82d-3565-4dcb-9adf-c0f2eea1f3e9" />
 <img width="1243" height="82" alt="Screenshot 2025-09-29 112637" src="https://github.com/user-attachments/assets/f9c4c50f-e50c-4aa1-b8b7-abed213115c4" />
 
+
+
+
 PUT -(แก้สินค้า)
 
 
@@ -44,3 +47,5 @@ PUT -(แก้สินค้า)
 
 
 
+DELETE -ลบสินค้า ในกรณีนี้จะลบสินค้า id1
+<img width="635" height="623" alt="Screenshot 2025-09-29 112923" src="https://github.com/user-attachments/assets/b6661b6b-4e80-445a-84c6-2a3e65ee301c" />
