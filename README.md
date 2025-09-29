@@ -15,4 +15,5 @@ DELETE	 ลบสินค้า	           URL: products.php?id=1
 
 *การเรียกใช้งานใน Postman
 GET – ดึงสินค้าทั้งหมด
-postman get http://localhost/my_music_api/products.php
+![Postman GET ตัวอย่าง](<img width="1217" height="830" alt="Screenshot 2025-09-29 110827" src="https://github.com/user-attachments/assets/da967206-f861-437d-a06f-f44985ba4e0f" />)
+
