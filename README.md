@@ -48,4 +48,9 @@ PUT -(แก้สินค้า)
 
 
 DELETE -ลบสินค้า ในกรณีนี้จะลบสินค้า id1
+
+
+
+
+
 <img width="635" height="623" alt="Screenshot 2025-09-29 112923" src="https://github.com/user-attachments/assets/b6661b6b-4e80-445a-84c6-2a3e65ee301c" />
