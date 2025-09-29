@@ -2,6 +2,7 @@
 ไฟล์ products.php ทำงานเป็น RESTful API สำหรับจัดการข้อมูลสินค้าในฐานข้อมูล musicstore โดยรองรับ 4 วิธีหลัก:
 
 Method	 การทำงาน	            ตัวอย่าง URL / Body
+
 GET	     ดึงข้อมูลสินค้า	       - ทั้งหมด: products.php
                              - ทีละรายการ: products.php?id=1
                              
