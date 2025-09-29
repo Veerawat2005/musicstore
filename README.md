@@ -27,4 +27,7 @@ GET -ดึงสินค้าทีละอัน
 <img width="777" height="777" alt="Screenshot 2025-09-29 112357" src="https://github.com/user-attachments/assets/87ee1c0f-e4b6-4aa1-b7b0-943e35c36655" />
 
 
+POST -(เพิ่มสินค้า)
+<img width="1243" height="82" alt="Screenshot 2025-09-29 112637" src="https://github.com/user-attachments/assets/f9c4c50f-e50c-4aa1-b8b7-abed213115c4" />
+<img width="612" height="662" alt="Screenshot 2025-09-29 112600" src="https://github.com/user-attachments/assets/7d57a82d-3565-4dcb-9adf-c0f2eea1f3e9" />
 
