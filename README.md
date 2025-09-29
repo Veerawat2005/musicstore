@@ -34,3 +34,7 @@ POST -(เพิ่มสินค้า)
 
 <img width="612" height="662" alt="Screenshot 2025-09-29 112600" src="https://github.com/user-attachments/assets/7d57a82d-3565-4dcb-9adf-c0f2eea1f3e9" />
 <img width="1243" height="82" alt="Screenshot 2025-09-29 112637" src="https://github.com/user-attachments/assets/f9c4c50f-e50c-4aa1-b8b7-abed213115c4" />
+
+PUT -(แก้สินค้า)
+<img width="646" height="533" alt="Screenshot 2025-09-29 112906" src="https://github.com/user-attachments/assets/4ff1454e-d3e1-4032-8b2a-575d65d90849" />
+
